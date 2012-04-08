@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("common")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("ArffSharp")]
+[assembly: AssemblyDescription("A .NET reader for the Attribute Relationship File Format (ARFF) used by Weka.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("common")]
+[assembly: AssemblyCompany("Ian Obermiller")]
+[assembly: AssemblyProduct("ArffSharp")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
